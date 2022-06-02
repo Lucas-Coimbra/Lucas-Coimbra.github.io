@@ -1,0 +1,17 @@
+#perfil {
+    font-family: Georgia;
+}
+#descricao {
+    font-family: monospace, sans-serif;
+}
+body {
+    background-color: silver;
+}
+strong {
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', sans-serif;
+    color: 141414;
+}
+.elements {
+    font-size: larger;
+}
